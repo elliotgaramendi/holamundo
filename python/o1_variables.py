@@ -1,0 +1,7 @@
+""" Variables """
+
+COURSE_NAME = "Python"
+STUDENTS = 20
+SCORE = 18.5
+IS_APPROVED = True
+print(COURSE_NAME, STUDENTS, SCORE, IS_APPROVED)
