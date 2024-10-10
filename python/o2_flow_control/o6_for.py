@@ -1,4 +1,4 @@
-""" For """
+""" for """
 
 numberToSearch = int(input("Enter a number to search: "))
 
